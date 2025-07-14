@@ -27,6 +27,7 @@ Installation / Download
 
 # 1. Clone the repository
 git clone https://github.com/levi4tan-cL/fast_scanner.git
+
 cd fast_scanner
 
 # 2. (optional) install eye-candy dependencies
